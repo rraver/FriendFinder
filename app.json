@@ -1,0 +1,8 @@
+{
+"name": "FriendFinder Node App",
+"description": "App using express",
+"repository": "",
+"logo": "",
+"keywords": ["node", "express"],
+"image": "heroku/nodejs"
+}
